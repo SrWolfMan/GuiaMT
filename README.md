@@ -1,7 +1,14 @@
 # GuiaMT
 
+1. Descargar la carpeta que contiene los archivos del proyecto.
+2. Abrir Visual Studio Code
+3. Instalar las extensiones "Live Server" y "Live Share" (Esta es opcional)
+4. Dar click en "Go Live" en la parte inferior derecha.
 
-Project is gonna be temporarily hosted as localhost while the whole thing is finished and hosted officially.
-It's gonna run under the port 5923
+El modelo utilizado es cliente-servicio
 
-You must access it using "https://localhost:5923"
+Solicitudes del usuario:
+
+- Iniciación del Test Vocacional
+- Selección de la modalidad principal de Media Técnica
+- Selección de la modalidad secundaria de Media Técnica
